@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">728849876029-bc38dr1d6ov64rbobbt5ok2d9dr0v4dd.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://telchat-fc1b2.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">728849876029</string>
+    <string name="google_api_key" translatable="false">AIzaSyAXsm14fH9AW4umaAsKXvrVXBQq1aLhPRo</string>
+    <string name="google_app_id" translatable="false">1:728849876029:android:c7d75ffe46c12db8f31654</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAXsm14fH9AW4umaAsKXvrVXBQq1aLhPRo</string>
+    <string name="google_storage_bucket" translatable="false">telchat-fc1b2.appspot.com</string>
+</resources>

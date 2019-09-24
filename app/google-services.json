@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728849876029",
+    "firebase_url": "https://telchat-fc1b2.firebaseio.com",
+    "project_id": "telchat-fc1b2",
+    "storage_bucket": "telchat-fc1b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728849876029:android:c7d75ffe46c12db8f31654",
+        "android_client_info": {
+          "package_name": "com.example.HOT.nomichats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728849876029-ga1g5fp0lav6d6gt6v6elbrdo7r3rsfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.HOT.nomichats",
+            "certificate_hash": "ac95b526273ec956e52f97724d7c7588b8ac1f6d"
+          }
+        },
+        {
+          "client_id": "728849876029-bc38dr1d6ov64rbobbt5ok2d9dr0v4dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXsm14fH9AW4umaAsKXvrVXBQq1aLhPRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728849876029-bc38dr1d6ov64rbobbt5ok2d9dr0v4dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
